@@ -40,9 +40,17 @@ See the [complete project repository](https://github.com/iheanyi-okwara/data-ana
 
 ## Experience
 
-I completed the Amdari Data Analytics Internship, working on analytics projects across healthcare, telecommunications, manufacturing, and entertainment. My experience in healthcare support also informs my interest in healthcare data and service improvement.
+I completed the Amdari Data Analytics Internship, gaining hands-on experience in data cleaning, transformation, analysis, dashboard development and business reporting.
+
+I have developed six end-to-end analytics projects across healthcare, telecommunications, manufacturing, entertainment and media, e-commerce and retail, and service operations.
+
+My technical skills include SQL, Python, Power BI, DAX, Power Query and Excel, which I use to analyse datasets, build interactive dashboards, identify performance trends and deliver actionable business insights.
+
+My professional background in healthcare support also provides practical insight into healthcare operations, service delivery and performance improvement.
 
 ## Contact
 
-- **Portfolio:** [iheanyi-okwara.bolt.host](https://iheanyi-okwara.bolt.host)
-- **Email:** [okwaraiheanyi@gmail.com](mailto:okwaraiheanyi@gmail.com)
+- Portfolio: "iheanyi-okwara.bolt.host" (https://iheanyi-okwara.bolt.host)
+- LinkedIn: "Iheanyi Okwara" (https://www.linkedin.com/in/iheanyi-okwara-90a3842a9)
+- GitHub Projects: "Data Analytics Projects" (https://github.com/iheanyi-okwara/data-analysis-projects)
+- Email: "okwaraiheanyi@gmail.com" (mailto:okwaraiheanyi@gmail.com)
