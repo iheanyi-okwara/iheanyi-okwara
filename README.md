@@ -50,7 +50,7 @@ My professional background in healthcare support also provides practical insight
 
 ## Contact
 
-- Portfolio: "iheanyi-okwara.bolt.host" (https://iheanyi-okwara.bolt.host)
-- LinkedIn: "Iheanyi Okwara" (https://www.linkedin.com/in/iheanyi-okwara-90a3842a9)
-- GitHub Projects: "Data Analytics Projects" (https://github.com/iheanyi-okwara/data-analysis-projects)
-- Email: "okwaraiheanyi@gmail.com" (mailto:okwaraiheanyi@gmail.com)
+- **Portfolio:** [iheanyi-okwara.bolt.host](https://iheanyi-okwara.bolt.host)
+- **LinkedIn:** [Iheanyi Okwara](https://www.linkedin.com/in/iheanyi-okwara-90a3842a9)
+- **GitHub Projects:** [Data Analytics Projects](https://github.com/iheanyi-okwara/data-analysis-projects)
+- **Email:** [okwaraiheanyi@gmail.com](mailto:okwaraiheanyi@gmail.com)
