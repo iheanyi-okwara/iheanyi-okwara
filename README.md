@@ -1,12 +1,14 @@
 ## Hi, I'm Iheanyi Okwara 👋
 
-**Data Analyst | SQL | Python | Power BI | Excel**
+**Data Analyst | SQL | Python | Power BI | Excel | Business Intelligence**
 
-I use data to explore business questions and communicate useful insights. My portfolio includes case studies in healthcare, customer service, telecommunications, manufacturing, and media and entertainment.
+I transform data into meaningful insights that help organisations understand performance, identify trends and make informed business decisions.
+
+My interests include business intelligence, data visualisation, KPI reporting, healthcare analytics and operational performance improvement.
 
 ## Featured analytics projects
 
-- **[Horizon Health Network — Bed Demand and Workforce Analytics](https://github.com/iheanyi-okwara/data-analysis-projects/tree/main/Horizon_Health_Network)**  
+- **[Horizon Health Network — Bed Demand and Workforce Analytics](https://healthcare-bed-demand.bolt.host)**  
   Healthcare admissions, bed demand, specialty trends, and workforce planning.
 
 - **[NorthBridge Health Services — Ticket and SLA Analytics](https://northbridge-health-analytics.bolt.host)**  
@@ -18,10 +20,13 @@ I use data to explore business questions and communicate useful insights. My por
 - **[GreenTech Production Downtime Analytics](https://greentech-production-downtime.bolt.host)**  
   Downtime by production line and machine, delay rates, and major contributors.
 
-- **[StreamWave Viewer Engagement](https://iheanyi-okwara.bolt.host)**  
-  Viewer engagement and retention analysis.
+- **[StreamWave Viewer Engagement & Retention Analytics](https://github.com/iheanyi-okwara/data-analysis-projects/tree/main/StreamWave-Viewer-Engagement-Retention-Analytics)**  
+  Viewer behaviour, content performance, subscription trends, and retention analysis.
 
-See the [complete project repository](https://github.com/iheanyi-okwara/data-analysis-projects) and [my portfolio website](https://iheanyi-okwara.bolt.host) for more.
+- **[AdventureWorks — Sales, Product & Customer Performance Analytics](https://adventureworks-analytics.bolt.host)**  
+  E-commerce and retail sales performance, revenue, profitability, product returns, and customer insights using Power BI, DAX, and Power Query.
+
+Explore the [complete project repository](https://github.com/iheanyi-okwara/data-analysis-projects) or visit [my portfolio website](https://iheanyi-okwara.bolt.host) for more.
 
 ## Tools and skills
 
